@@ -1,0 +1,54 @@
+📘 Project Title: Blinkit Sales & Outlet Performance Analysis using Python 
+
+📂 Project Requirements :
+
+1.Tasks and Workflow
+
+🔸 Step 1: Data Cleaning
+-Remove or impute missing values
+
+-Standardize text fields (e.g., fat content: “LF”, “low fat” → “Low Fat”)
+
+-Validate data types
+
+-Detect and remove outliers
+
+🔸 Step 2: Data Exploration & EDA
+-Item distribution by type
+
+-Fat content share (Low Fat vs Regular)
+
+-Top-selling categories
+
+-Outlet performance by:
+
+-Type (Tier 1/2/3)
+
+-Size (Small/Medium/Large)
+
+-Establishment year
+
+-Sales per outlet and item
+
+🔸 Step 3: KPI Calculation
+-Total Sales
+
+-Average Sales per Item
+
+-Total Unique Items
+
+-Average Customer Rating
+
+-Category-wise and Outlet-wise revenue
+
+🔸 Step 4: Data Visualization (Python)
+-Pie charts: Fat content share
+
+-Bar graphs: Sales by category, outlet type
+
+-Line plots: Trends over establishment years
+
+-Heatmaps: Correlation between price and sales
+
+📄 Deliverables
+notebook with complete data preprocessing and visualization
