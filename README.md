@@ -1,2 +1,2 @@
-# Blinkit_Sales_and_Outlet_Performance_Analysis
-TechNest Task 7 : Blinkit Sales and Outlet performance analysis. A well documented Jupyter notebook with insights and visuals.
+<h1 align="center">Blinkit Sales and Outlet Performance Analysis</h1>
+<p align="center"><em>TechNest Task 7 : Blinkit Sales and Outlet performance analysis</em></p>
