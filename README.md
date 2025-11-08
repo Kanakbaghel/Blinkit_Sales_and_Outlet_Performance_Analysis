@@ -2,8 +2,9 @@
 <p align="center"><em>TechNest Task 7 : Blinkit Sales Data </em></p>
 
 ---
-
-![Banner: Blinkit Sales Analysis](https://github.com/user-attachments/assets/56572e07-5f6d-4fc6-af4e-98f8cbdc4cec)
+ _Explore my more TechNest Tasks_ [Here](https://github.com/Kanakbaghel/TechNest-Internship)
+   -----------
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/b184082d-a259-4e7b-9865-193a67901f29" />
 
 
 ---
